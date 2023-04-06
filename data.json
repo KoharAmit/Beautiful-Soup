@@ -1,415 +1,369 @@
 [{
         "title": "N/A",
-        "price": "N/A",
-        "location": "Barrie",
-        "time": "N/A",
+        "rent_amount": "N/A",
+        "town": "Barrie",
         "description": "N/A",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
-        "title": "1500 sq ft unit for rent in clean quiet neighbourhood.  close to",
-        "price": "$2,950.00",
-        "location": "Barrie",
-        "time": "about  11 hours ago",
-        "description": "clean quiet bldg close to park and shopping",
-        "intersection": "N/A",
-        "bedroom": "Beds:\n2"
+        "title": "BRAND NEW! 1 BEDROOM APARTMENTS FOR RENT IN NORTH BARRIE!",
+        "rent_amount": "$2,125.00",
+        "town": "Barrie",
+        "description": "BRAND-NEW APARTMENT RENTALS IN NORTH BARRIE! VIEW OUR MODEL SUITES TODAY!! WALK-INS WELCOME! DISCOVER MORE AT WWW.RENTBAYFIELDTOWER.COM Take a step into modern living at Bayfield Tower Apartments, ... Proudly managed by Realstar Management! Bayfield Tower Apartments offers one, two and three bedroom apartments for rent!",
+        "street_name": "Bayfield Street",
+        "unit_size": "Beds:1"
     },
     {
-        "title": "233 Dunlop - 1 Bedroom   Apartment for Rent",
-        "price": "$2,350.00",
-        "location": "Barrie",
-        "time": "about  10 hours ago",
-        "description": "READY-TO-MOVE-IN! Offering First Month's Rent FREE! Open House every Saturday from 11 AM to 2 PM - by Appointment Only (Book Here) Two 33 Dunlop is a brand new luxury apartment building in Barrie, ...\n                        \n                            \n                            \n                                \n                            \n                            \n                        \n\n                        \n                            \n                                Brand New Barrie Apartment Rental!",
-        "intersection": "Dunlop Street West",
-        "bedroom": "Beds:\n1"
+        "title": "Ferndale Gardens Apartments - 1 Bedroom Apartment for Rent",
+        "rent_amount": "$2,149.00",
+        "town": "Barrie",
+        "description": "Ferndale Garden Apartments Limited Time Offer: 1 Month FREE! *Terms & Conditions Apply* Open House: Saturday, April 8th, 2023 from 11:00 am to 3:00 pm Saturday, April 22nd, 2023 from 11:00 am to 3:00 ... Now Leasing Multi-Residential Development in Barrie, Ontario",
+        "street_name": "N/A",
+        "unit_size": "Beds:1"
     },
     {
-        "title": "2 Bedroom Apartment for Rent in South Barrie!",
-        "price": "$1,995.00",
-        "location": "Barrie",
-        "time": "21/03/2023",
-        "description": "SPACIOUS APARTMENTS FOR RENT IN SOUTH BARRIE! SELECT APARTMENTS FULLY RENOVATED WITH PREMIUM UPDGRADES! RENOVATED TWO BEDROOM APARTMENTS STARTING AT $1,995/MONTH* TOUCH FREE LEASING: Virtual viewings ...\n                        \n                            \n                            \n                                \n                            \n                            \n                        \n\n                        \n                            \n                                Proudly Managed by Realstar! Edgehill Apartments offers spacious 1, 2 and 3 bedroom rental apartments!",
-        "intersection": "Edgehill Drive",
-        "bedroom": "Beds:\n2"
+        "title": "Fantastic 2 bedroom apartment for rent near Georgian Mall!",
+        "rent_amount": "$2,225.00",
+        "town": "Barrie",
+        "description": "SPACIOUS 2 BEDROOM APARTMENTFOR RENT IN BARRIE! SELECT APARTMENTS FULLY RENOVATED WITH PREMIUM UPGRADES! Our Rental Office remains operational in light of COVID-19. The health and safety of you, ... Proudly Managed by Realstar! Highpoint-Barrie Offers One, Two and Three Bedroom Apartments for Rent",
+        "street_name": "N/A",
+        "unit_size": "Beds:2"
     },
     {
-        "title": "1 Bedroom Apartment in Midland - OPEN HOUSE",
-        "price": "$1,895.00",
-        "location": "Barrie",
-        "time": "about  9 hours ago",
-        "description": "OPEN HOUSE ON NOW! Thursdays and Fridays from 4:00 to 8:00 pm $250 VISA Gift Card MOVE-IN BONUS!* *Gifted upon approved application and move-in. Parkview Apartments are located just steps from ...\n                        \n                            \n                            \n                                \n                            \n                            \n                        \n\n                        \n                            \n                                \"Let our Customer Service bring you home!\" Williams & McDaniel Property Management",
-        "intersection": "N/A",
-        "bedroom": "Beds:\n1"
+        "title": "TWO BEDROOM TOWNHOME-BARRIE--BEAUTIFULLY MAINTAINED-$2,195",
+        "rent_amount": "$2,195.00",
+        "town": "Barrie",
+        "description": "BARRIE TOWN HOME AVAILABLE APRIL 15, 2023 GREAT VALUE--GREAT LOCATION--CLOSE TO TRANSIT AND 400 AND MAPLEVIEW PRIVATE GARAGE AND DRIVEWAY AND FRONT AND REAR YARDS MODERN LAYOUT WITH LOTS OF OPEN ... townhouse rental south barrie",
+        "street_name": "N/A",
+        "unit_size": "Beds:2"
     },
     {
-        "title": "2 Bedroom Apartment east end of Barrie",
-        "price": "$1,750.00",
-        "location": "Barrie",
-        "time": "01/04/2023",
-        "description": "Bright 2 bedroom apartment in the east end of Barrie. Close to Nelson Park. First, last and references required. Please note there are steps to get into the apartment.",
-        "intersection": "N/A",
-        "bedroom": "Beds:\n2"
-    },
-    {
-        "title": "INNISFIL - Beautiful End-Unit Townhouse For Rent -- Whole House",
-        "price": "$2,700.00",
-        "location": "Barrie",
-        "time": "about  19 minutes ago",
-        "description": "Beautiful End-Unit Townhouse For Rent in the best location in Innisfil. Home is 4 years new and features a WALK-OUT basement (unfinished) . This home is backing in to pond for added privacy and ...",
-        "intersection": "N/A",
-        "bedroom": "Beds:\n3"
-    },
-    {
-        "title": "Barrie 1 Bedroom Apartment for Rent - 37 Johnson Street",
-        "price": "$1,899.00",
-        "location": "Barrie",
-        "time": "about  38 minutes ago",
-        "description": "Current Promotions View our units by clicking the virtual tour link, schedule a video tour or make an appointment for in person viewing 249-449-9288Virtual Open House: View our units by clicking the ...",
-        "intersection": "N/A",
-        "bedroom": "Beds:\n1"
+        "title": "3 Bedroom Townhouse for Rent - Perfect for Modern Living. Barrie",
+        "rent_amount": "$3,200.00",
+        "town": "Barrie",
+        "description": "Just Listed Blue Forest Cres, Barrie $3,200 / Month Looking for a stunning new townhome in the heart of Barrie, Ontario? Look no further! This brand new, 3-story corner townhome boasts 3 spacious ... Honesty & Integrity",
+        "street_name": "Mapleview Drive East",
+        "unit_size": "Beds:3"
     },
     {
         "title": "Barrie 2 Bedrooms Apartment for Rent - 37 Johnson Street",
-        "price": "$2,230.00",
-        "location": "Barrie",
-        "time": "about  38 minutes ago",
+        "rent_amount": "$2,230.00",
+        "town": "Barrie",
         "description": "Current Promotions View our units by clicking the virtual tour link, schedule a video tour or make an appointment for in person viewing 249-449-9288Virtual Open House: View our units by clicking the ...",
-        "intersection": "N/A",
-        "bedroom": "Beds:\n2"
+        "street_name": "N/A",
+        "unit_size": "Beds:2"
+    },
+    {
+        "title": "Barrie 1 Bedroom Apartment for Rent - 37 Johnson Street",
+        "rent_amount": "$1,899.00",
+        "town": "Barrie",
+        "description": "Current Promotions View our units by clicking the virtual tour link, schedule a video tour or make an appointment for in person viewing 249-449-9288Virtual Open House: View our units by clicking the ...",
+        "street_name": "N/A",
+        "unit_size": "Beds:1"
+    },
+    {
+        "title": "Looking for pet friendly rental/rooms/roommates",
+        "rent_amount": "Free",
+        "town": "Barrie",
+        "description": "Looking for a pet friendly rental and or roommate buy June first I am a 23 year old male I will need a spot for bike parking. serious inquiry's only If you don't like dogs or understand what a dog is ...",
+        "street_name": "N/A",
+        "unit_size": "N/A"
+    },
+    {
+        "title": "Orillia 2 Bedrooms Apartment for Rent - 263 Millard Street",
+        "rent_amount": "$2,347.00",
+        "town": "Barrie",
+        "description": "Current Promotions View our units by clicking the virtual tour link, schedule a video tour or make an appointment for in person viewing.Virtual Open House: View our units by clicking the virtual tour ...",
+        "street_name": "N/A",
+        "unit_size": "Beds:2"
+    },
+    {
+        "title": "Orillia 2 Bedroom Apartment for Rent - 401 West Street, North",
+        "rent_amount": "$2,149.00",
+        "town": "Barrie",
+        "description": "Current Promotions View our units by clicking the virtual tour link, schedule a video tour or make an appointment for in person viewing.Virtual Open House: View our units by clicking the virtual tour ...",
+        "street_name": "West Street South",
+        "unit_size": "Beds:2"
+    },
+    {
+        "title": "BACHELOR AVAILABLE NOW FOR RENT IN BARRIE!",
+        "rent_amount": "$1,465.00",
+        "town": "Barrie",
+        "description": "ROSS WELL SUITES - 96 ROSS STREET, BARRIE, ON L4N 1G3 CURRENT AVAILABILITY: BACHELOR : Starting from $1,465/month(Heat & Water Included, Hydro Extra & Parking Extra) TO BOOK AN APPOINTMENT CALL VAL ... Not Just an Apartment, Your New Home!",
+        "street_name": "N/A",
+        "unit_size": "Beds:Bachelor/Studio"
+    },
+    {
+        "title": "3 Income Properties For Private Sale",
+        "rent_amount": "$799,995.00",
+        "town": "Barrie",
+        "description": "Prices have dropped but demand & prices for rent has not, which means it's a great time to buy! 3 houses for private sale currently vacant but can work with the buyer to supply new tenants if needed. ...",
+        "street_name": "Johnson Street",
+        "unit_size": "N/A"
+    },
+    {
+        "title": "Bright 2 bedroom apartment, Thickwood, Fort McMurray, Allberta.",
+        "rent_amount": "$1,200.00",
+        "town": "Barrie",
+        "description": "This is a very bright basement suite in Thickwood. 5 step walkdown unit with seperate entrance. Very close to site bus and city transit. Close to grocery, restaurants, convenience stores and ...",
+        "street_name": "N/A",
+        "unit_size": "Beds:2"
+    },
+    {
+        "title": "Bright 2 bedroom apartment, Thickwood, Fort McMurray, Allberta.",
+        "rent_amount": "$1,200.00",
+        "town": "Barrie",
+        "description": "This is a very bright basement suite in Thickwood. 5 step walkdown unit with seperate entrance. Very close to site bus and city transit. Close to grocery, restaurants, convenience stores and ...",
+        "street_name": "N/A",
+        "unit_size": "Beds:2"
+    },
+    {
+        "title": "3 Bedroom 2 Bath furnished short term rental South Barrie",
+        "rent_amount": "$2,200.00",
+        "town": "Barrie",
+        "description": "Upper level of south end Barrie home for rent. Available May 1st to Dec 31, 2023 for $2,200 a month plus $300 monthly utilities for a minimum 6 month stay. Shorter stays will be considered at a ...",
+        "street_name": "N/A",
+        "unit_size": "N/A"
+    },
+    {
+        "title": "2 Bedroom basement for rent",
+        "rent_amount": "$2,000.00",
+        "town": "Barrie",
+        "description": "Two bedrooms basement apartment furnished or unfurnished available for rent at prime location, spacious, pot lights, separate entrance,very close to Sheridan collage and Reginal Victoria Hospital, ...",
+        "street_name": "N/A",
+        "unit_size": "Beds:2"
+    },
+    {
+        "title": "INNISFIL - Beautiful End-Unit Townhouse For Rent -- Whole House",
+        "rent_amount": "$2,700.00",
+        "town": "Barrie",
+        "description": "Beautiful End-Unit Townhouse For Rent in the best location in Innisfil. Home is 4 years new and features a WALK-OUT basement (unfinished) . This home is backing in to pond for added privacy and ...",
+        "street_name": "N/A",
+        "unit_size": "Beds:3"
     },
     {
         "title": "basement for rent",
-        "price": "$950.00",
-        "location": "Barrie",
-        "time": "about  40 minutes ago",
+        "rent_amount": "$950.00",
+        "town": "Barrie",
         "description": "inclusive 1 bedroom/living room basement with wifi/weekly load of laundry/sink and a toilet . avail April 8. the main entrance, kitchen and the shower are shared and are located upstairs not in the ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "Midland Whole House",
-        "price": "$2,550.00",
-        "location": "Barrie",
-        "time": "about  44 minutes ago",
+        "rent_amount": "$2,550.00",
+        "town": "Barrie",
         "description": "https://m.youtube.com/watch?v=Bgnmo86X-Yk&t=12s May 1, $2550+utilities This enchanting setting is exactly what you have been waiting for. Bright and airy, this 1 1/2 storey home has charm and ...",
-        "intersection": "Hugel Avenue",
-        "bedroom": "Beds:\n2+Den"
+        "street_name": "Hugel Avenue",
+        "unit_size": "Beds:2+Den"
     },
     {
         "title": "Midland Roommate",
-        "price": "$1,500.00",
-        "location": "Barrie",
-        "time": "about  44 minutes ago",
+        "rent_amount": "$1,500.00",
+        "town": "Barrie",
         "description": "Looking to split this house with one person. You will get half the house and use of everything. Plus privacy since you will most likely have the place to yourself for the majority. Student or working ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "2 rooms in the basement for one person",
-        "price": "$700.00",
-        "location": "Barrie",
-        "time": "about  45 minutes ago",
+        "rent_amount": "$700.00",
+        "town": "Barrie",
         "description": "From Aprile 10. Preferably international student. Grove East Barrie. Bathroom and kitchen (all shared) on the ground floor",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "Georgian College International Student Housing \ud55c\uc778 \ub8f8\ub80c\ud2b8 (\uc5ec\uc131\ub9cc)",
-        "price": "$650.00",
-        "location": "Barrie",
-        "time": "about  46 minutes ago",
+        "rent_amount": "$650.00",
+        "town": "Barrie",
         "description": "Georgian College, Barrie, Canada (\uc870\uc9c0\uc548 \uceec\ub9ac\uc9c0, \ubca0\ub9ac, \uce90\ub098\ub2e4) \uc870\uc9c0\uc548 \uceec\ub9ac\uc9c0 \uac00\uae4c\uc6b4 \uac70\ub9ac (\ubc84\uc2a4\ub85c 5\ubd84) \ube48\ubc29: 3\uac1c \ud654\uc7a5\uc2e4: 2\uac1c \uac00\uaca9: $650/\uc6d4 \ub8f8\ub80c\ud2b8 \ud558\uc2e4\ubd84 \uc5f0\ub77d\uc8fc\uc138\uc694~ \uc774\uba54\uc77c: brandon.park@live.ca \uc5f0\ub77d \uc8fc\uc2dc\uba74 \uc0ac\uc9c4\uc774\ub791 \uc815\ubcf4 \ubcf4\ub0b4 \ub4dc\ub9bd\ub2c8\ub2e4.",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "Brand New Condo - Barrie",
-        "price": "$429,500.00",
-        "location": "Barrie",
-        "time": "about  49 minutes ago",
+        "rent_amount": "$429,500.00",
+        "town": "Barrie",
         "description": "Wow. Location, Location!. 2023 built condo. 2 mins from Barrie South Go station and less than 10 minutes from Hwy 400 and shopping. Unbelievable low maintenance fee of only $206/month. Includes 9\" ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "SINGLE ROOMS FOR RENT",
-        "price": "$850.00",
-        "location": "Barrie",
-        "time": "about  2 hours ago",
+        "rent_amount": "$850.00",
+        "town": "Barrie",
         "description": "Large Single Room for rent, Shared Accommodation, 3 Rooms in Total. You share a bathroom and kitchen with 2 others! Very Clean Environment 5 mins walk to the beautiful Barrie waterfront, Bus ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "1 Bedroom and bachelor apartments available in barrie",
-        "price": "Please Contact",
-        "location": "Barrie",
-        "time": "about  2 hours ago",
+        "rent_amount": "Please Contact",
+        "town": "Barrie",
         "description": "128 Penetang street Multiple bachelor + 1 bedroom apartments available near downtown barrie becoming available to rent as of April 1st. The units range from between $950 - $1150 all inclusive with ...",
-        "intersection": "St Vincent Street",
-        "bedroom": "Beds:\nBachelor/Studio"
+        "street_name": "St Vincent Street",
+        "unit_size": "Beds:Bachelor/Studio"
     },
     {
         "title": "Waterfront home/cottage for sale",
-        "price": "Free",
-        "location": "Barrie",
-        "time": "about  2 hours ago",
+        "rent_amount": "Free",
+        "town": "Barrie",
         "description": "NEW LISTING Waterfront 4 season home/cottage 2bed 2bath Waterfront 4 season home/cottage on Bass Lake. This bungalow is bright and full of natural light it offers one floor living, with a stunning ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "HOME * BEING SOLD AS * IS in Barrie",
-        "price": "Please Contact",
-        "location": "Barrie",
-        "time": "about  2 hours ago",
+        "rent_amount": "Please Contact",
+        "town": "Barrie",
         "description": "Beautiful London Home - Being sold as is FREE list of homes with \u2726 \u2726 Pictures, Price and Address \u2013 Now Priced well below Market Value! Being Sold As is\u2726\u2726 Bank \u2726 owned Homes ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "Looking for Land in Innisfil?  Innisfil Beach Rd/25 Side Rd",
-        "price": "$6,500,000.00",
-        "location": "Barrie",
-        "time": "about  2 hours ago",
+        "rent_amount": "$6,500,000.00",
+        "town": "Barrie",
         "description": "Commercial/Residential Land 2.0 Acres * Zoned Mu2 * Allowed Uses Including Banquet Hall, Convenience Store, Financial Institution, Fitness Center, Funeral Home, Hotel, Medical, Pharmacy, Restaurant & ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "Cozy, bright, one bedroom apartment close to the highway",
-        "price": "$1,650.00",
-        "location": "Barrie",
-        "time": "about  2 hours ago",
+        "rent_amount": "$1,650.00",
+        "town": "Barrie",
         "description": "A must see one bed one bath unit in the heart of the city. This apartment located at 359 Essa Road, in the community called Essa Gardens, is perfectly located near shopping, buses, and the Highway ...",
-        "intersection": "Essa Road",
-        "bedroom": "Beds:\n1"
+        "street_name": "Essa Road",
+        "unit_size": "Beds:1"
     },
     {
         "title": "2 level 3 bed, 1.5 bath, spacious apartment Available June 1st!",
-        "price": "$2,350.00",
-        "location": "Barrie",
-        "time": "about  2 hours ago",
+        "rent_amount": "$2,350.00",
+        "town": "Barrie",
         "description": "A must see fully renovated three bed one and a half bath unit in the heart of the city. This apartment located at 355-361 Essa Road, in the community called Essa Gardens, is perfectly located near ...",
-        "intersection": "Essa Road",
-        "bedroom": "Beds:\n3"
+        "street_name": "Essa Road",
+        "unit_size": "Beds:3"
     },
     {
         "title": "2 Bedroom Executive Suite Midland",
-        "price": "$2,345.00",
-        "location": "Barrie",
-        "time": "about  3 hours ago",
-        "description": "If you have a discerning eye when it comes to quality, you will love our luxuriousExecutive Suiterentals in Midland. With quality that will exceedyour expectations, these homes come with all high-end ...\n                        \n                            \n                            \n                                \n                            \n                            \n                        \n\n                        \n                            \n                                \"Let our Customer Service bring you home!\" Williams & McDaniel Property Management",
-        "intersection": "N/A",
-        "bedroom": "Beds:\n2"
+        "rent_amount": "$2,345.00",
+        "town": "Barrie",
+        "description": "If you have a discerning eye when it comes to quality, you will love our luxuriousExecutive Suiterentals in Midland. With quality that will exceedyour expectations, these homes come with all high-end ... \"Let our Customer Service bring you home!\" Williams & McDaniel Property Management",
+        "street_name": "N/A",
+        "unit_size": "Beds:2"
     },
     {
         "title": "Infinity Property Services - Property Management",
-        "price": "",
-        "location": "Barrie",
-        "time": "about  3 hours ago",
+        "rent_amount": "",
+        "town": "Barrie",
         "description": "Infinity Property Services (IPS) employees have over 100 years of combined experience managing properties for clients throughout Ontario since 1995. We work with residential and commercial ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "***Legal Duplex ***",
-        "price": "$765,000.00",
-        "location": "Barrie",
-        "time": "about  3 hours ago",
+        "rent_amount": "$765,000.00",
+        "town": "Barrie",
         "description": "**Legal Duplex** Call for More Information or To View 905-302-8111 \u2705Investment Opportunity \u2705Two Family Home Each Unit Separate Entrances. \u2705Two Bedroom Units \u2705 Two Separate Kitchens & Laundry For Each ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "NEED TO ASSIGN YOUR PRE-CONSTRUCTION HOME? ...",
-        "price": "Please Contact",
-        "location": "Barrie",
-        "time": "about  3 hours ago",
+        "rent_amount": "Please Contact",
+        "town": "Barrie",
         "description": "Assign Your Pre-Construction New Home Purchase Today! For A Limited Time, List Your Assignment Sale For 2% Commission. Can't Put It On MLS?... That's Okay! My Exclusive System Will Expose Your ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "One Room Available Cook Street, Barrie.",
-        "price": "$700.00",
-        "location": "Barrie",
-        "time": "about  3 hours ago",
+        "rent_amount": "$700.00",
+        "town": "Barrie",
         "description": "If you are student or young working professional looking for a room for reply to this add with a detailed message. There are two full new bathrooms, and a two-piece bathroom. Shared kitchen, and ...",
-        "intersection": "Grove Street East",
-        "bedroom": "N/A"
+        "street_name": "Grove Street East",
+        "unit_size": "N/A"
     },
     {
         "title": "1 Bedroom Apartment Orillia",
-        "price": "$1,850.00",
-        "location": "Barrie",
-        "time": "about  3 hours ago",
-        "description": "Welcome to Noble Towers in Orillia! Nestled in a forested grove in a quiet neighbourhood and loved by seniors! Enjoy coming home to your one or two-bedroom suite with gleaming hardwood floors, a ...\n                        \n                            \n                            \n                                \n                            \n                            \n                        \n\n                        \n                            \n                                \"Let our Customer Service bring you home!\" Williams & McDaniel Property Management",
-        "intersection": "N/A",
-        "bedroom": "Beds:\n1"
+        "rent_amount": "$1,850.00",
+        "town": "Barrie",
+        "description": "Welcome to Noble Towers in Orillia! Nestled in a forested grove in a quiet neighbourhood and loved by seniors! Enjoy coming home to your one or two-bedroom suite with gleaming hardwood floors, a ... \"Let our Customer Service bring you home!\" Williams & McDaniel Property Management",
+        "street_name": "N/A",
+        "unit_size": "Beds:1"
     },
     {
         "title": "Midland 2 Bedroom Apartment - OPEN HOUSE - GREAT VIEW",
-        "price": "$2,070.00",
-        "location": "Barrie",
-        "time": "about  3 hours ago",
-        "description": "OPEN HOUSE ON NOW! Thursdays and Fridays from 4:00 to 8:00 pm $250 VISA Gift Card MOVE-IN BONUS!* *Gifted upon approved application and move-in. Welcome to the Parkview Apartments are located just ...\n                        \n                            \n                            \n                                \n                            \n                            \n                        \n\n                        \n                            \n                                \"Let our Customer Service bring you home!\" Williams & McDaniel Property Management",
-        "intersection": "N/A",
-        "bedroom": "Beds:\n2"
+        "rent_amount": "$2,070.00",
+        "town": "Barrie",
+        "description": "OPEN HOUSE ON NOW! Thursdays and Fridays from 4:00 to 8:00 pm $250 VISA Gift Card MOVE-IN BONUS!* *Gifted upon approved application and move-in. Welcome to the Parkview Apartments are located just ... \"Let our Customer Service bring you home!\" Williams & McDaniel Property Management",
+        "street_name": "N/A",
+        "unit_size": "Beds:2"
     },
     {
         "title": "An in vestor in the    a rea is on  the hunt for a property",
-        "price": "Please Contact",
-        "location": "Barrie",
-        "time": "about  4 hours ago",
+        "rent_amount": "Please Contact",
+        "town": "Barrie",
         "description": "Hello! I am a local. I am actively looking to purchase a fixer upper, or something that just needs some love. If you have a property you are considering selling, why not give me a message and see if ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "Attention landlords    - give   this a read",
-        "price": "Please Contact",
-        "location": "Barrie",
-        "time": "about  4 hours ago",
+        "rent_amount": "Please Contact",
+        "town": "Barrie",
         "description": "Hello! Have you considered getting out of the Landlord business? I am a local investor experienced in real estate and creative solutions. I am actively seeking a fixer upper or multi-family units to ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "4+1  BR | 5  BA-Detached home in Barrie | 26 Pepin Crt",
-        "price": "$1,295,000.00",
-        "location": "Barrie",
-        "time": "about  4 hours ago",
+        "rent_amount": "$1,295,000.00",
+        "town": "Barrie",
         "description": "4+1 Bedrooms & 5 Bath with Garage and parking in Barrie Top 5 Reasons You Will Love This Home: 1) Attractive Executive Home, Nearly 4,200 Square Feet Of Finished Living Space Showcasing An All-Brick ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "3+2 BR | 3 BA-Detached home in  Barrie | 103 Cumming  Dr",
-        "price": "$1,299,999.00",
-        "location": "Barrie",
-        "time": "about  4 hours ago",
+        "rent_amount": "$1,299,999.00",
+        "town": "Barrie",
         "description": "3+2 Bedrooms & 3 Bath with Garage and parking in Barrie. Nothing To Do But Move In! This Immaculate All Brick Bungalow Is On One Of Barrie's Most Sought After Streets & Locations. This Home Has Brand ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "4+1 BR | 5    BA-Detached  home in Barrie | 26 Pepin Crt",
-        "price": "$1,295,000.00",
-        "location": "Barrie",
-        "time": "about  4 hours ago",
+        "rent_amount": "$1,295,000.00",
+        "town": "Barrie",
         "description": "4+1 Bedrooms & 5 Bath with Garage and parking in Barrie Top 5 Reasons You Will Love This Home: 1) Attractive Executive Home, Nearly 4,200 Square Feet Of Finished Living Space Showcasing An All-Brick ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "4+1   BR | 6 BA-Detached home in Barrie | 16  Gray Lane",
-        "price": "$1,599,999.00",
-        "location": "Barrie",
-        "time": "about  4 hours ago",
+        "rent_amount": "$1,599,999.00",
+        "town": "Barrie",
         "description": "4+1 Bedrooms & 6 Bath with Garage and parking in Barrie . Prestigious Home In Barrie's Tollendale Neighbourgood! Minutes From The Beach At Tyndale Park!! 3 Story Home W/ 5 + 1 Beds & 6 Bathrooms! ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "4+2    BR | 4 BA-Detached home in Barrie | 13 Kelsey   Cres",
-        "price": "$1,249,000.00",
-        "location": "Barrie",
-        "time": "about  4 hours ago",
+        "rent_amount": "$1,249,000.00",
+        "town": "Barrie",
         "description": "4+2 Bedrooms & 4 Bath with Garage and parking in Barrie . New Legal Bsmt Nothing Spared In This 2Bd Bsmt Apt,Laundry & W/Sep Entrance. This Gorgeous All Brick 2600+ Sq/Ft 4+2Bds, 3+1Bath Home, ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     },
     {
         "title": "4+2   BR | 5 BA-detached home in Innis-Shore  | 33 Camelot Sq",
-        "price": "$1,695,000.00",
-        "location": "Barrie",
-        "time": "about  4 hours ago",
+        "rent_amount": "$1,695,000.00",
+        "town": "Barrie",
         "description": "4+2 Bedrooms & 5 Bath with Garage and parking in Barrie Exclusive \"Simcoe Shores\", Steps Away From Lake Simcoe. Backing Onto A Protected Pond, You Will Love The Views From The Back Windows And ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
-    },
-    {
-        "title": "3 BR | 3 BA-Detached home in    Barrie | 18    Ginger Dr",
-        "price": "$739,900.00",
-        "location": "Barrie",
-        "time": "about  4 hours ago",
-        "description": "3 Bedrooms & 3 Bath with Garage and parking in Barrie. Welcome To 18 Ginger Drive. This All Brick 2 Storey Home Offers 3 Bedrooms & 3 Bathrooms Located Within A Highly Sought After Community Of ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
-    },
-    {
-        "title": "4+1 BR |  5 BA-Detached home in Ardagh | 159 Muirfield   Dr",
-        "price": "$1,399,000.00",
-        "location": "Barrie",
-        "time": "about  4 hours ago",
-        "description": "4+1 Bedrooms & 5 Bath with Garage and parking in Ardagh. Absolutely Amazing In A Fantastic Neighbourhood One Year Old Home W/4 Bedrooms, 5 Washrooms. Ravine View And Premium Corner Lot. Walkout And ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
-    },
-    {
-        "title": "4 BR |  3 BA-Detached  home in Barrie | 7 Stroud Pl",
-        "price": "$1,375,000.00",
-        "location": "Barrie",
-        "time": "about  4 hours ago",
-        "description": "4 Bedrooms & 3 Bath with Garage and parking in Barrie Op 5 Reasons You Will Love This Home: 1) Welcoming Foyer And Spacious Principal Rooms Including An Eat-In Kitchen With Silestone Granite Counters ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
-    },
-    {
-        "title": "4   +1 BR | 4 BA-Detached home  in Barrie | 164 Cheltenham Rd",
-        "price": "$1,275,000.00",
-        "location": "Barrie",
-        "time": "about  4 hours ago",
-        "description": "4+1 Bedrooms & 4 Bath with Garage and parking IN Barrie Welcome To This Fabulous Opportunity To Live In This Cherished Family Home. Fully Finished 3300+Sq Ft Two-Storey Backing On To Ep Land And ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
-    },
-    {
-        "title": "FAMILY FRIENDLY HOME IN BARRIE",
-        "price": "$799,000.00",
-        "location": "Barrie",
-        "time": "about  4 hours ago",
-        "description": "GREAT Family Friendly in Barrie home for sale. Buy this home, and we'll buy yours!* For more info on our exclusive guarantee sale service, call or text 41 6. 99. 8 98. 91. This home comes with a free ...",
-        "intersection": "N/A",
-        "bedroom": "N/A"
-    },
-    {
-        "title": "Quaint & Charming 2bdr. in Century Home, downtown Barrie",
-        "price": "$1,600.00",
-        "location": "Barrie",
-        "time": "about  4 hours ago",
-        "description": "This is a quaint & charming 2 bdrm. apartment on the second floor of an Old Victorian Century Home, located in downtown Barrie. It features a large bathroom and a new side patio, new exterior paint, ...",
-        "intersection": "N/A",
-        "bedroom": "Beds:\n2"
-    },
-    {
-        "title": "Townhouse for rent",
-        "price": "$3,600.00",
-        "location": "Barrie",
-        "time": "about  4 hours ago",
-        "description": "Very neat and clean , 2015 built,, near to all amenities .2 mins from Georgian mall , 3 car parking.",
-        "intersection": "N/A",
-        "bedroom": "Beds:\n3"
-    },
-    {
-        "title": "master bedroom",
-        "price": "$450.00",
-        "location": "Barrie",
-        "time": "about  5 hours ago",
-        "description": "1 spot available in master bedroom available in shaing. dm for more info",
-        "intersection": "N/A",
-        "bedroom": "N/A"
-    },
-    {
-        "title": "Gorgeous Newly Custom Built Duplex 3 Br Main Lease In Stayner",
-        "price": "$2,700.00",
-        "location": "Barrie",
-        "time": "about  5 hours ago",
-        "description": "Newly Custom Built, Gorgeous High Efficiency 3 Bedroom And Office Main Floor in Legal Duplex Home For Lease Features a Beautiful Large Open Concept Living/Dining Room With Cathedral Ceilings That Can ...",
-        "intersection": "Highway 26",
-        "bedroom": "Beds:\n3+Den"
+        "street_name": "N/A",
+        "unit_size": "N/A"
     }
 ]

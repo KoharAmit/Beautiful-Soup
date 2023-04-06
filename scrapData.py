@@ -14,39 +14,34 @@ for listing in listings:
         listing_title = listing_title_element.text.strip().replace('N/A','Data unavailable for this post')
     else:
         listing_title = 'N/A'
-    listing_price_element = listing.find('div', class_='price')
-    if listing_price_element is not None:
-        listing_price = listing_price_element.text.strip().replace('\n','').replace('\t','').replace('N/A','Data unavailable for this post')
+    listing_rent_element = listing.find('div', class_='price')
+    if listing_rent_element is not None:
+        listing_rent = listing_rent_element.text.strip().replace('\n','').replace('\t','').replace('N/A','Data unavailable for this post')
     else:
-        listing_price = 'N/A'
-    listing_location_element = listing.find_next_sibling('span')
-    if listing_location_element is not None:
-        listing_location = listing_location_element.text.strip().replace('N/A','Data unavailable for this post')
+        listing_rent = 'N/A'
+    listing_town_element = listing.find_next_sibling('span')
+    if listing_town_element is not None:
+        listing_town = listing_town_element.text.strip().replace('N/A','Data unavailable for this post')
     else:
-        listing_location = 'Barrie'
-    listing_time_element = listing.find('span', class_='date-posted')
-    if listing_time_element is not None:
-        listing_time = listing_time_element.text.strip().replace('<','about ')
-    else:
-        listing_time = 'N/A'
+        listing_town = 'Barrie'
     listing_description_element = listing.find('div', class_='description')
     if listing_description_element is not None:
         listing_description = listing_description_element.text.strip().replace('N/A','Data unavailable for this post')
         listing_description = ' '.join(listing_description.split())
     else:
         listing_description = 'N/A'
-    listing_intersection_element = listing.find('span', class_='intersection')
-    if listing_intersection_element is not None:
-        listing_intersection = listing_intersection_element.text.strip().replace('N/A','Data unavailable for this post')
+    listing_street_element = listing.find('span', class_='intersection')
+    if listing_street_element is not None:
+        listing_street = listing_street_element.text.strip().replace('N/A','Data unavailable for this post')
     else:
-        listing_intersection = 'N/A'
-    listing_bedroom_element = listing.find('span', class_='bedrooms')
-    if listing_bedroom_element is not None:
-        listing_bedroom = listing_bedroom_element.text.strip().replace(' ','').replace('\n','')
+        listing_street = 'N/A'
+    listing_unit_size_element = listing.find('span', class_='bedrooms')
+    if listing_unit_size_element is not None:
+        listing_unit_size = listing_unit_size_element.text.strip().replace(' ','').replace('\n','')
     else:
-        listing_bedroom = 'N/A'
+        listing_unit_size = 'N/A'
 
-    data.append({'title': listing_title, 'price': listing_price, 'location': listing_location, 'time': listing_time, 'description': listing_description, 'intersection': listing_intersection, 'bedroom': listing_bedroom})
+    data.append({'title': listing_title, 'rent_amount': listing_rent, 'town': listing_town, 'description': listing_description, 'street_name': listing_street, 'unit_size': listing_unit_size})
 
 json_data = json.dumps(data)
 with open('data.json', 'w') as f:
